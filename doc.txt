@@ -1,0 +1,2 @@
+created all lazy load routes in feature modules
+need to create a feature module with eager loading routes

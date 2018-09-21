@@ -5,7 +5,9 @@
     "name": "sai gowtham"
   },
   "keywords": [
-    "lazyloading","angular","angular6"
+    "lazyloading",
+    "angular",
+    "angular6"
   ],
   "scripts": {
     "ng": "ng",
